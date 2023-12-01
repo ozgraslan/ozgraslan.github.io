@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ozgraslan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - METU-KALFA/assembly_learning
+  - burakbolat/ReinforcedAttentionPolicy
+  - CENG501-Spring2021/tree/main/project_AslanBolat
+  - ozgraslan/CENG519-Project
+  - ozgraslan/ur5_robotiq140_kinect
+  - gcinbis/deep-generative-models-course-projects/tree/master/HistoGAN
