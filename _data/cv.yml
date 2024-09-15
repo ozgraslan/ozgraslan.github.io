@@ -3,33 +3,39 @@
   contents:
     - name: Full Name
       value: Özgür Aslan
-    - name: Date of Birth
-      value: 22th January 1998
     - name: Languages
-      value: Turkish, English, German
+      value: Turkish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc, Computer Engineering
+    - title: Ph.D., Computer Science and Operations Research
+      institution: Universite de Montreal, Montreal, Quebec, Canada
+      year: 2024-2028
+    - title: M.Sc., Computer Engineering
       institution: Middle East Technical University, Ankara, Turkey
-      year: 2024
+      year: 2021-2024
       description:
         - CGPA 4.0/4.0
-    - title: B.Sc, Computer Engineering
+    - title: B.Sc., Computer Engineering
       institution: Middle East Technical University (METU), Ankara, Turkey
-      year: 2021
+      year: 2016-2021
       description:
         - CGPA 3.88/4.0 (4th out of 229 students)
 
 - title: Experience
   type: time_table
   contents:
+    - title: Research Student
+      institution: Quebec Ai Institute (Mila)
+      year: 2024 -
+      description:
+        - Working on generalist robot policies
     - title: Research Assistant
       institution: Kovan Lab, Romer, METU
-      year: 2021 -
+      year: 2021 - 2024
       description:
-        - Working on Tübitak-1001 Project called “KALFA New Methods for Assembly Scenarios with Collaborative Robots”.
+        - Worked on Tübitak-1001 Project called “KALFA New Methods for Assembly Scenarios with Collaborative Robots”.
         - Implemented a graph neural network based reinforcement learning agent for sequential assembly learning problem. Devised a function that compares the current assembly point cloud and target assembly point cloud and computes a reward for the agent.
         - Currently working on error detection and mitigation in assembly sequences using causal inference.
         - Co-advised Romer summer interns of 2022 and 2023.
@@ -67,10 +73,13 @@
   contents:
     - title: Robotics
       items: 
-        - Sequential Decision Making
+        - Generalized policies
         - Human-Robot Collaboration
     - title: Reinforcement Learning
       items:
         - Weak Supervision
         - Model Based Learning
+    - title: Causality
+      items:
+        - Causal Discovery
 
